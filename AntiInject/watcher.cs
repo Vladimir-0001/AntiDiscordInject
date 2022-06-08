@@ -40,7 +40,7 @@ namespace AntiInject
         private void DiscordKiller()
         {
 
-            for (int i = 0; i < 100; i++)
+            for (int i = 0; i < 15; i++)
             {
                 Process[] pr = Process.GetProcessesByName("Discord");
                 foreach (Process p in pr)
@@ -54,16 +54,18 @@ namespace AntiInject
         }
         public void intercept()
         {
+           
             Thread killer = new Thread(DiscordKiller);
             killer.Start();
-            string text = System.IO.File.ReadAllText(path + @"\modules\discord_desktop_core-3\discord_desktop_core\index.js");
+            string text = System.IO.File.ReadAllText(path + @"\modules\discord_desktop_core-1\discord_desktop_core\index.js");
             if (text != "module.exports = require('./core.asar');")
             {
-                    System.IO.File.WriteAllText(path + @"\modules\discord_desktop_core-3\discord_desktop_core\index.js", "module.exports = require('./core.asar');");
+                    System.IO.File.WriteAllText(path + @"\modules\discord_desktop_core-1\discord_desktop_core\index.js", "module.exports = require('./core.asar');");
                     killerstart = false;
+                    MessageBox.Show("AntiDiscordInject detected attempted injection of a discord virus and blocked it", "AntiInject", MessageBoxButtons.OK, MessageBoxIcon.Warning);
             }
 
-            MessageBox.Show("AntiDiscordInject detected attempted injection of a discord virus and blocked it", "AntiInject", MessageBoxButtons.OK,MessageBoxIcon.Warning);
+           
             
         }
         public void Watch()
@@ -73,20 +75,22 @@ namespace AntiInject
             {
                 try
                 {                    
-                    string text = System.IO.File.ReadAllText(path + @"\modules\discord_desktop_core-3\discord_desktop_core\index.js");
+                    string text = System.IO.File.ReadAllText(path + @"\modules\discord_desktop_core-1\discord_desktop_core\index.js");
                     if (text != "module.exports = require('./core.asar');")
                     {
                         intercept();
                     }
-                    Thread.Sleep(20);
+                    Thread.Sleep(50);
                 }
 
                 catch
                 {
+                    Thread.Sleep(50);
                     continue;
+
                 }
-                
-                
+
+
             }
         }
     }
