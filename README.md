@@ -8,6 +8,7 @@ This currently only suppourts **Windows**.
  - Low Cpu usage 
  - keeps discord from launching while there is malicious code on the computer
  - fast
+ - stops injection based discord attacks from [Rdimo/Discord-Injection](https://github.com/Rdimo/Discord-Injection)
 
 <br>
 
