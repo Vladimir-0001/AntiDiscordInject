@@ -5,10 +5,11 @@
 This currently only suppourts **Windows**.
 
 # Features
- - Low Cpu usage 
- - keeps discord from launching while there is malicious code on the computer
- - fast
- - stops injection based discord attacks based on [Rdimo/Discord-Injection](https://github.com/Rdimo/Discord-Injection)
+ - Low CPU usage 
+ - Keeps discord from launching while there is malicious code on the computer
+ - Super fast
+ - Stops injection based discord attacks based on [Rdimo/Discord-Injection](https://github.com/Rdimo/Discord-Injection)
+ - Removes the grabber's autoinstaller
 
 <br>
 
