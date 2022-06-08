@@ -4552,11 +4552,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\DiscordAntiinject\\AntiInject\\AntiInject\\AntiInject.csproj",
+      "projectUniqueName": "E:\\DiscordAntiinject\\AntiInject\\AntiDiscordInject\\AntiInject\\AntiInject.csproj",
       "projectName": "AntiInject",
-      "projectPath": "E:\\DiscordAntiinject\\AntiInject\\AntiInject\\AntiInject.csproj",
+      "projectPath": "E:\\DiscordAntiinject\\AntiInject\\AntiDiscordInject\\AntiInject\\AntiInject.csproj",
       "packagesPath": "C:\\Users\\creck\\.nuget\\packages\\",
-      "outputPath": "E:\\DiscordAntiinject\\AntiInject\\AntiInject\\obj\\",
+      "outputPath": "E:\\DiscordAntiinject\\AntiInject\\AntiDiscordInject\\AntiInject\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "GvjrdxgZ9JomZGUIuJMScGEF/oiREVvJ+eF1mbjZvpvR1Z6SBdV5GFLkW3xumm31SxAQTEWPI0Yz1H4kshXinQ==",
+  "dgSpecHash": "cd2AmabBwfTjyqhCzMDBljisb5LjZD0BvL0Lf6d0Yru1tkROeSUoltRh+cn9BHCJHNqNosIcGQpndWnlOvSj5Q==",
   "success": true,
-  "projectFilePath": "E:\\DiscordAntiinject\\AntiInject\\AntiInject\\AntiInject.csproj",
+  "projectFilePath": "E:\\DiscordAntiinject\\AntiInject\\AntiDiscordInject\\AntiInject\\AntiInject.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\creck\\.nuget\\packages\\costura.fody\\5.7.0\\costura.fody.5.7.0.nupkg.sha512",
     "C:\\Users\\creck\\.nuget\\packages\\fody\\6.5.5\\fody.6.5.5.nupkg.sha512",
