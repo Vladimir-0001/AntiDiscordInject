@@ -1,0 +1,21 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v0.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v0.0": {
+      "Costura.Fody/5.7.0": {}
+    }
+  },
+  "libraries": {
+    "Costura.Fody/5.7.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-MmL28WOOnJEBWORXj6bfSxfWaZW8gWSXEJTdrjB9AQi4COX6RXr2xdGL9HsxpWwn6f5Io0NmNuwFJe94w1YmQA==",
+      "path": "costura.fody/5.7.0",
+      "hashPath": "costura.fody.5.7.0.nupkg.sha512"
+    }
+  }
+}

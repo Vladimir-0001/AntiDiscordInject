@@ -1,0 +1,17 @@
+E:\DiscordAntiinject\AntiInject\AntiInject\bin\Debug\netcoreapp3.1\AntiInject.exe
+E:\DiscordAntiinject\AntiInject\AntiInject\bin\Debug\netcoreapp3.1\AntiInject.deps.json
+E:\DiscordAntiinject\AntiInject\AntiInject\bin\Debug\netcoreapp3.1\AntiInject.runtimeconfig.json
+E:\DiscordAntiinject\AntiInject\AntiInject\bin\Debug\netcoreapp3.1\AntiInject.runtimeconfig.dev.json
+E:\DiscordAntiinject\AntiInject\AntiInject\bin\Debug\netcoreapp3.1\AntiInject.dll
+E:\DiscordAntiinject\AntiInject\AntiInject\bin\Debug\netcoreapp3.1\AntiInject.pdb
+E:\DiscordAntiinject\AntiInject\AntiInject\obj\Debug\netcoreapp3.1\AntiInject.csproj.AssemblyReference.cache
+E:\DiscordAntiinject\AntiInject\AntiInject\obj\Debug\netcoreapp3.1\AntiInject.Form1.resources
+E:\DiscordAntiinject\AntiInject\AntiInject\obj\Debug\netcoreapp3.1\AntiInject.csproj.GenerateResource.cache
+E:\DiscordAntiinject\AntiInject\AntiInject\obj\Debug\netcoreapp3.1\AntiInject.GeneratedMSBuildEditorConfig.editorconfig
+E:\DiscordAntiinject\AntiInject\AntiInject\obj\Debug\netcoreapp3.1\AntiInject.AssemblyInfoInputs.cache
+E:\DiscordAntiinject\AntiInject\AntiInject\obj\Debug\netcoreapp3.1\AntiInject.AssemblyInfo.cs
+E:\DiscordAntiinject\AntiInject\AntiInject\obj\Debug\netcoreapp3.1\AntiInject.csproj.CoreCompileInputs.cache
+E:\DiscordAntiinject\AntiInject\AntiInject\obj\Debug\netcoreapp3.1\AntiInject.dll
+E:\DiscordAntiinject\AntiInject\AntiInject\obj\Debug\netcoreapp3.1\AntiInject.pdb
+E:\DiscordAntiinject\AntiInject\AntiInject\obj\Debug\netcoreapp3.1\AntiInject.genruntimeconfig.cache
+E:\DiscordAntiinject\AntiInject\AntiInject\obj\Debug\netcoreapp3.1\AntiInject.csproj.Fody.CopyLocal.cache
