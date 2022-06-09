@@ -10,6 +10,7 @@ This currently only suppourts **Windows**.
  - Super fast
  - Stops injection based discord attacks based on [Rdimo/Discord-Injection](https://github.com/Rdimo/Discord-Injection)
  - Removes the grabber's autoinstaller
+ - Removes virus and monitors for new injection
 
 <br>
 
